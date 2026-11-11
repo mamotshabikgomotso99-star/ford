@@ -2323,6 +2323,7 @@ a:focus-visible {
     inset: -5% auto auto -48%;
     width: 196%;
     height: 110%;
+    max-width: none;
     object-position: 54% center;
   }
 
